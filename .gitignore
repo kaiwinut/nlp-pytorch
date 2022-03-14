@@ -1,0 +1,3 @@
+*.DS_Store
+penn-treebank/
+__pycache__/
